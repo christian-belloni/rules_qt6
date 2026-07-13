@@ -63,6 +63,12 @@ cc_library(
     visibility = ["//visibility:public"],
 )
 
+filegroup(
+    name = "include",
+    srcs = glob(["include/**"]),
+    visibility = ["//visibility:public"],
+)
+
 native_binary(
     name = "qmake",
     src = "bin/qmake.exe",
