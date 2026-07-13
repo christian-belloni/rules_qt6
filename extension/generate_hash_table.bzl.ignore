@@ -1,0 +1,10 @@
+load(":qt_modules.bzl", "QT_MODULES", "QT_BASE_DOWNLOAD_URL")
+
+def _generate_hashes_impl(ctx):
+  pass
+
+
+_generate_hashes = rule(
+  implementation = _generate_hashes,
+  attrs = {}
+)

@@ -744,19 +744,19 @@ QT_MODULES = {
         },
         "6.11.1": {
             "qtbase": {
-                "url": QT_BASE_DOWNLOAD_URL + "windows_x86/desktop/qt6_6111/qt6_6111_msvc2022_64/qt.qt6.6111.win64_msvc2022_64/6.11.1-0-202605090529qtbase-Windows-Windows_11_23H2-MSVC2022-Windows-Windows_11_23H2-X86_64.7z",
+                "url": QT_BASE_DOWNLOAD_URL + "windows_x86/desktop/qt6_6111/qt6_6111_msvc2022_64/qt.qt6.6111.win64_msvc2022_64/6.11.1-0-202605090529qtbase-Windows-Windows_11_24H2-MSVC2022-Windows-Windows_11_24H2-X86_64.7z",
                 "sha256": "",
             },
             "qtdeclarative": {
-                "url": QT_BASE_DOWNLOAD_URL + "windows_x86/desktop/qt6_6111/qt6_6111_msvc2022_64/qt.qt6.6111.win64_msvc2022_64/6.11.1-0-202605090529qtdeclarative-Windows-Windows_11_23H2-MSVC2022-Windows-Windows_11_23H2-X86_64.7z",
+                "url": QT_BASE_DOWNLOAD_URL + "windows_x86/desktop/qt6_6111/qt6_6111_msvc2022_64/qt.qt6.6111.win64_msvc2022_64/6.11.1-0-202605090529qtdeclarative-Windows-Windows_11_24H2-MSVC2022-Windows-Windows_11_24H2-X86_64.7z",
                 "sha256": "",
             },
             "qtsvg": {
-                "url": QT_BASE_DOWNLOAD_URL + "windows_x86/desktop/qt6_6111/qt6_6111_msvc2022_64/qt.qt6.6111.win64_msvc2022_64/6.11.1-0-202605090529qtsvg-Windows-Windows_11_23H2-MSVC2022-Windows-Windows_11_23H2-X86_64.7z",
+                "url": QT_BASE_DOWNLOAD_URL + "windows_x86/desktop/qt6_6111/qt6_6111_msvc2022_64/qt.qt6.6111.win64_msvc2022_64/6.11.1-0-202605090529qtsvg-Windows-Windows_11_24H2-MSVC2022-Windows-Windows_11_24H2-X86_64.7z",
                 "sha256": "",
             },
             "qt5compat": {
-                "url": QT_BASE_DOWNLOAD_URL + "windows_x86/desktop/qt6_6111/qt6_6111_msvc2022_64/qt.qt6.6111.addons.qt5compat.win64_msvc2022_64/6.11.1-0-202605090529qt5compat-Windows-Windows_11_23H2-MSVC2022-Windows-Windows_11_23H2-X86_64.7z",
+                "url": QT_BASE_DOWNLOAD_URL + "windows_x86/desktop/qt6_6111/qt6_6111_msvc2022_64/qt.qt6.6111.addons.qt5compat.win64_msvc2022_64/6.11.1-0-202605090529qt5compat-Windows-Windows_11_24H2-MSVC2022-Windows-Windows_11_24H2-X86_64.7z",
                 "sha256": "",
             },
 
