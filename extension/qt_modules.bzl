@@ -576,135 +576,135 @@ QT_MODULES = {
 
         "6.11.1": {
             "qtbase": {
-                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.clang_64/6.11.1-0-202605090526qtbase-MacOS-MacOS_15_Clang-MacOS-MacOS_15_X86_64-ARM64.7z",
+                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.clang_64/6.11.1-0-202605090526qtbase-MacOS-MacOS_15-Clang-MacOS-MacOS_15-X86_64-ARM64.7z",
                 "sha256": "",
             },
             "qtdeclarative": {
-                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.clang_64/6.11.1-0-202605090526qtdeclarative-MacOS-MacOS_15_Clang-MacOS-MacOS_15_X86_64-ARM64.7z",
+                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.clang_64/6.11.1-0-202605090526qtdeclarative-MacOS-MacOS_15-Clang-MacOS-MacOS_15-X86_64-ARM64.7z",
                 "sha256": "",
             },
             "qtsvg": {
-                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.clang_64/6.11.1-0-202605090526qtsvg-MacOS-MacOS_15_Clang-MacOS-MacOS_15_X86_64-ARM64.7z",
+                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.clang_64/6.11.1-0-202605090526qtsvg-MacOS-MacOS_15-Clang-MacOS-MacOS_15-X86_64-ARM64.7z",
                 "sha256": "",
             },
             "qt5compat": {
-                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qt5compat.clang_64/6.11.1-0-202605090526qt5compat-MacOS-MacOS_15_Clang-MacOS-MacOS_15_X86_64-ARM64.7z",
+                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qt5compat.clang_64/6.11.1-0-202605090526qt5compat-MacOS-MacOS_15-Clang-MacOS-MacOS_15-X86_64-ARM64.7z",
                 "sha256": "",
             },
             "qtconnectivity": {
-                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtconnectivity.clang_64/6.11.1-0-202605090526qtconnectivity-MacOS-MacOS_15_Clang-MacOS-MacOS_15_X86_64-ARM64.7z",
+                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtconnectivity.clang_64/6.11.1-0-202605090526qtconnectivity-MacOS-MacOS_15-Clang-MacOS-MacOS_15-X86_64-ARM64.7z",
                 "sha256": "",
             },
             "qt3d": {
-                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qt3d.clang_64/6.11.1-0-202605090526qt3d-MacOS-MacOS_15_Clang-MacOS-MacOS_15_X86_64-ARM64.7z",
+                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qt3d.clang_64/6.11.1-0-202605090526qt3d-MacOS-MacOS_15-Clang-MacOS-MacOS_15-X86_64-ARM64.7z",
                 "sha256": "",
             },
             "qtcharts": {
-                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtcharts.clang_64/6.11.1-0-202605090526qtcharts-MacOS-MacOS_15_Clang-MacOS-MacOS_15_X86_64-ARM64.7z",
+                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtcharts.clang_64/6.11.1-0-202605090526qtcharts-MacOS-MacOS_15-Clang-MacOS-MacOS_15-X86_64-ARM64.7z",
                 "sha256": "",
             },
             "qtdatavis3d": {
-                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtdatavis3d.clang_64/6.11.1-0-202605090526qtdatavis3d-MacOS-MacOS_15_Clang-MacOS-MacOS_15_X86_64-ARM64.7z",
+                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtdatavis3d.clang_64/6.11.1-0-202605090526qtdatavis3d-MacOS-MacOS_15-Clang-MacOS-MacOS_15-X86_64-ARM64.7z",
                 "sha256": "",
             },
             "qtmultimedia": {
-                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtmultimedia.clang_64/6.11.1-0-202605090526qtmultimedia-MacOS-MacOS_15_Clang-MacOS-MacOS_15_X86_64-ARM64.7z",
+                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtmultimedia.clang_64/6.11.1-0-202605090526qtmultimedia-MacOS-MacOS_15-Clang-MacOS-MacOS_15-X86_64-ARM64.7z",
                 "sha256": "",
             },
             "qtshadertools": {
-                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtshadertools.clang_64/6.11.1-0-202605090526qtshadertools-MacOS-MacOS_15_Clang-MacOS-MacOS_15_X86_64-ARM64.7z",
+                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtshadertools.clang_64/6.11.1-0-202605090526qtshadertools-MacOS-MacOS_15-Clang-MacOS-MacOS_15-X86_64-ARM64.7z",
                 "sha256": "",
             },
             "qtquick3d": {
-                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtquick3d.clang_64/6.11.1-0-202605090526qtquick3d-MacOS-MacOS_15_Clang-MacOS-MacOS_15_X86_64-ARM64.7z",
+                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtquick3d.clang_64/6.11.1-0-202605090526qtquick3d-MacOS-MacOS_15-Clang-MacOS-MacOS_15-X86_64-ARM64.7z",
                 "sha256": "",
             },
             "qtquicktimeline": {
-                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtquicktimeline.clang_64/6.11.1-0-202605090526qtquicktimeline-MacOS-MacOS_15_Clang-MacOS-MacOS_15_X86_64-ARM64.7z",
+                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtquicktimeline.clang_64/6.11.1-0-202605090526qtquicktimeline-MacOS-MacOS_15-Clang-MacOS-MacOS_15-X86_64-ARM64.7z",
                 "sha256": "",
             },
             "qtlottie": {
-                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtlottie.clang_64/6.11.1-0-202605090526qtlottie-MacOS-MacOS_15_Clang-MacOS-MacOS_15_X86_64-ARM64.7z",
+                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtlottie.clang_64/6.11.1-0-202605090526qtlottie-MacOS-MacOS_15-Clang-MacOS-MacOS_15-X86_64-ARM64.7z",
                 "sha256": "",
             },
             "qtscxml": {
-                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtscxml.clang_64/6.11.1-0-202605090526qtscxml-MacOS-MacOS_15_Clang-MacOS-MacOS_15_X86_64-ARM64.7z",
+                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtscxml.clang_64/6.11.1-0-202605090526qtscxml-MacOS-MacOS_15-Clang-MacOS-MacOS_15-X86_64-ARM64.7z",
                 "sha256": "",
             },
             "qtremoteobjects": {
-                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtremoteobjects.clang_64/6.11.1-0-202605090526qtremoteobjects-MacOS-MacOS_15_Clang-MacOS-MacOS_15_X86_64-ARM64.7z",
+                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtremoteobjects.clang_64/6.11.1-0-202605090526qtremoteobjects-MacOS-MacOS_15-Clang-MacOS-MacOS_15-X86_64-ARM64.7z",
                 "sha256": "",
             },
             "qtserialport": {
-                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtserialport.clang_64/6.11.1-0-202605090526qtserialport-MacOS-MacOS_15_Clang-MacOS-MacOS_15_X86_64-ARM64.7z",
+                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtserialport.clang_64/6.11.1-0-202605090526qtserialport-MacOS-MacOS_15-Clang-MacOS-MacOS_15-X86_64-ARM64.7z",
                 "sha256": "",
             },
             "qtserialbus": {
-                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtserialbus.clang_64/6.11.1-0-202605090526qtserialbus-MacOS-MacOS_15_Clang-MacOS-MacOS_15_X86_64-ARM64.7z",
+                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtserialbus.clang_64/6.11.1-0-202605090526qtserialbus-MacOS-MacOS_15-Clang-MacOS-MacOS_15-X86_64-ARM64.7z",
                 "sha256": "",
             },
             "qtsensors": {
-                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtsensors.clang_64/6.11.1-0-202605090526qtsensors-MacOS-MacOS_15_Clang-MacOS-MacOS_15_X86_64-ARM64.7z",
+                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtsensors.clang_64/6.11.1-0-202605090526qtsensors-MacOS-MacOS_15-Clang-MacOS-MacOS_15-X86_64-ARM64.7z",
                 "sha256": "",
             },
             "qtpositioning": {
-                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtpositioning.clang_64/6.11.1-0-202605090526qtpositioning-MacOS-MacOS_15_Clang-MacOS-MacOS_15_X86_64-ARM64.7z",
+                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtpositioning.clang_64/6.11.1-0-202605090526qtpositioning-MacOS-MacOS_15-Clang-MacOS-MacOS_15-X86_64-ARM64.7z",
                 "sha256": "",
             },
             "qtnetworkauth": {
-                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtnetworkauth.clang_64/6.11.1-0-202605090526qtnetworkauth-MacOS-MacOS_15_Clang-MacOS-MacOS_15_X86_64-ARM64.7z",
+                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtnetworkauth.clang_64/6.11.1-0-202605090526qtnetworkauth-MacOS-MacOS_15-Clang-MacOS-MacOS_15-X86_64-ARM64.7z",
                 "sha256": "",
             },
             "qtimageformats": {
-                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtimageformats.clang_64/6.11.1-0-202605090526qtimageformats-MacOS-MacOS_15_Clang-MacOS-MacOS_15_X86_64-ARM64.7z",
+                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtimageformats.clang_64/6.11.1-0-202605090526qtimageformats-MacOS-MacOS_15-Clang-MacOS-MacOS_15-X86_64-ARM64.7z",
                 "sha256": "",
             },
             "qthttpserver": {
-                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qthttpserver.clang_64/6.11.1-0-202605090526qthttpserver-MacOS-MacOS_15_Clang-MacOS-MacOS_15_X86_64-ARM64.7z",
+                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qthttpserver.clang_64/6.11.1-0-202605090526qthttpserver-MacOS-MacOS_15-Clang-MacOS-MacOS_15-X86_64-ARM64.7z",
                 "sha256": "",
             },
             "qtlanguageserver": {
-                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtlanguageserver.clang_64/6.11.1-0-202605090526qtlanguageserver-MacOS-MacOS_15_Clang-MacOS-MacOS_15_X86_64-ARM64.7z",
+                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtlanguageserver.clang_64/6.11.1-0-202605090526qtlanguageserver-MacOS-MacOS_15-Clang-MacOS-MacOS_15-X86_64-ARM64.7z",
                 "sha256": "",
             },
             "qtgrpc": {
-                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtgrpc.clang_64/6.11.1-0-202605090526qtgrpc-MacOS-MacOS_15_Clang-MacOS-MacOS_15_X86_64-ARM64.7z",
+                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtgrpc.clang_64/6.11.1-0-202605090526qtgrpc-MacOS-MacOS_15-Clang-MacOS-MacOS_15-X86_64-ARM64.7z",
                 "sha256": "",
             },
             "qtquick3dphysics": {
-                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtquick3dphysics.clang_64/6.11.1-0-202605090526qtquick3dphysics-MacOS-MacOS_15_Clang-MacOS-MacOS_15_X86_64-ARM64.7z",
+                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtquick3dphysics.clang_64/6.11.1-0-202605090526qtquick3dphysics-MacOS-MacOS_15-Clang-MacOS-MacOS_15-X86_64-ARM64.7z",
                 "sha256": "",
             },
             "qtspeech": {
-                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtspeech.clang_64/6.11.1-0-202605090526qtspeech-MacOS-MacOS_15_Clang-MacOS-MacOS_15_X86_64-ARM64.7z",
+                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtspeech.clang_64/6.11.1-0-202605090526qtspeech-MacOS-MacOS_15-Clang-MacOS-MacOS_15-X86_64-ARM64.7z",
                 "sha256": "",
             },
             "qtlocation": {
-                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtlocation.clang_64/6.11.1-0-202605090526qtlocation-MacOS-MacOS_15_Clang-MacOS-MacOS_15_X86_64-ARM64.7z",
+                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtlocation.clang_64/6.11.1-0-202605090526qtlocation-MacOS-MacOS_15-Clang-MacOS-MacOS_15-X86_64-ARM64.7z",
                 "sha256": "",
             },
             "qtquickeffectmaker": {
-                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtquickeffectmaker.clang_64/6.11.1-0-202605090526qtquickeffectmaker-MacOS-MacOS_15_Clang-MacOS-MacOS_15_X86_64-ARM64.7z",
+                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtquickeffectmaker.clang_64/6.11.1-0-202605090526qtquickeffectmaker-MacOS-MacOS_15-Clang-MacOS-MacOS_15-X86_64-ARM64.7z",
                 "sha256": "",
             },
             "qtgraphs": {
-                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtgraphs.clang_64/6.11.1-0-202605090526qtgraphs-MacOS-MacOS_15_Clang-MacOS-MacOS_15_X86_64-ARM64.7z",
+                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtgraphs.clang_64/6.11.1-0-202605090526qtgraphs-MacOS-MacOS_15-Clang-MacOS-MacOS_15-X86_64-ARM64.7z",
                 "sha256": "",
             },
             "qtvirtualkeyboard": {
-                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtvirtualkeyboard.clang_64/6.11.1-0-202605090526qtvirtualkeyboard-MacOS-MacOS_15_Clang-MacOS-MacOS_15_X86_64-ARM64.7z",
+                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtvirtualkeyboard.clang_64/6.11.1-0-202605090526qtvirtualkeyboard-MacOS-MacOS_15-Clang-MacOS-MacOS_15-X86_64-ARM64.7z",
                 "sha256": "",
             },
             "qtwebchannel": {
-                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtwebchannel.clang_64/6.11.1-0-202605090526qtwebchannel-MacOS-MacOS_15_Clang-MacOS-MacOS_15_X86_64-ARM64.7z",
+                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtwebchannel.clang_64/6.11.1-0-202605090526qtwebchannel-MacOS-MacOS_15-Clang-MacOS-MacOS_15-X86_64-ARM64.7z",
                 "sha256": "",
             },
             "qtwebsockets": {
-                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtwebsockets.clang_64/6.11.1-0-202605090526qtwebsockets-MacOS-MacOS_15_Clang-MacOS-MacOS_15_X86_64-ARM64.7z",
+                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtwebsockets.clang_64/6.11.1-0-202605090526qtwebsockets-MacOS-MacOS_15-Clang-MacOS-MacOS_15-X86_64-ARM64.7z",
                 "sha256": "",
             },
             "qtwebview": {
-                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtwebview.clang_64/6.11.1-0-202605090526qtwebview-MacOS-MacOS_15_Clang-MacOS-MacOS_15_X86_64-ARM64.7z",
+                "url": QT_BASE_DOWNLOAD_URL + "mac_x64/desktop/qt6_6111/qt6_6111/qt.qt6.6111.addons.qtwebview.clang_64/6.11.1-0-202605090526qtwebview-MacOS-MacOS_15-Clang-MacOS-MacOS_15-X86_64-ARM64.7z",
                 "sha256": "",
             },
         }
