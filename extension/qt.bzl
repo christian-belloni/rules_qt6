@@ -20,6 +20,7 @@ def _fetch_impl(mctx):
                     windows_architecture = arg.windows_architecture,
                 )
                 repos_created[arg.name] = True
+    return mctx.extension_metadata(reproducible = True)
 
 _install = tag_class(
     attrs = {

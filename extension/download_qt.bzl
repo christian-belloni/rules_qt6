@@ -171,6 +171,7 @@ def _download_qt_impl(rctx):
     # Write the toplevel BUILD.bazel file, removing the @rules_qt since the libraries def is contained therein
     build_file_contents = rctx.read(rctx.attr.build_file)
     rctx.file("BUILD.bazel", content = build_file_contents.replace("@rules_qt", ""))
+    return rctx.repo_metadata(reproducible = True)
 
 download_qt = repository_rule(
     implementation = _download_qt_impl,
