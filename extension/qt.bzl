@@ -24,7 +24,7 @@ def _fetch_impl(mctx):
 _install = tag_class(
     attrs = {
         "name": attr.string(default = "qt"),
-        "version": attr.string(default = "6.8.3"),
+        "version": attr.string(default = "6.11.1"),
         "os": attr.string(default = "linux"),  #TODO Make this cross with at least arm64/mac
         "target_sdk": attr.string(default = "desktop"),
         "build_file": attr.label(default = "@rules_qt//:qt_linux_x86_64.BUILD"),
