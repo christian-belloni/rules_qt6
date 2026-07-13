@@ -1,3 +1,4 @@
+load("@bazel_skylib//rules:native_binary.bzl", "native_binary")
 load("@rules_cc//cc:cc_import.bzl", "cc_import")
 load("@rules_cc//cc:cc_library.bzl", "cc_library")
 load("@rules_qt//:qt_libraries.bzl", "QT_LIBRARIES")
@@ -59,6 +60,12 @@ cc_library(
     includes = [
         "include",
     ],
+    visibility = ["//visibility:public"],
+)
+
+native_binary(
+    name = "qmake",
+    src = "bin/qmake.exe",
     visibility = ["//visibility:public"],
 )
 
